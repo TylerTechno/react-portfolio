@@ -1,0 +1,24 @@
+ [
+    {
+        "year": "2021-2021",
+        "title": "Student",
+        "where": "Taking this amazing Full Stack web design bootcamp!"
+
+    },
+    {
+        "year": "2013 -2021",
+        "title": "VSP One",
+        "where": "Optical Laboratory Level 5 Tech, Team Lead"
+    },
+    {
+        "year": "2008-2013",
+        "title": "PC repair tech, website design",
+        "where": "KDandC"
+    },
+    {
+        "year": "2005-2008",
+        "title": "High School",
+        "where": "Orangevale"
+    }
+
+]
